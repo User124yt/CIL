@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>TEST WADDUP</h1>
+<img src="Wallpaper.jpg">
+
+<video width="320" height="240" controls>
+  <source src="Crash.mp4" type="video/mp4">
+</video>
+
+</body>
+</html>
